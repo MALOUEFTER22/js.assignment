@@ -5,4 +5,9 @@ console.log(speedoutput);
 let minutesinput = 3;
 let secondsoutput = 0;
 //.....
-console.log(secondsoutput);
+let input1 = 11;
+let input2 = 4;
+Answer = input1 / input2
+console.log(Answer)
+
+
