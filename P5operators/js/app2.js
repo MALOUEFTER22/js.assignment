@@ -7,4 +7,6 @@ let gold = 50;
 x = gold + 10;
 console.log(x);
 goldx = gold + 10;
-console.log(goldx );
+console.log(goldx);
+
+
